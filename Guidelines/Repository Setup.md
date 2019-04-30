@@ -24,8 +24,7 @@ Create a `.prettierrc` file at the root of the repository with this content:
   "singleQuote": true,
   "trailingComma": "all",
   "bracketSpacing": false,
-  "jsxBracketSameLine": true,
-  "parser": "flow"
+  "jsxBracketSameLine": true
 }
 ```
 
