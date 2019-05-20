@@ -14,8 +14,16 @@ about: Report a reproducible bug or regression in this library.
 ## Environment info
 
 <!--
-  Run `react-native info` in your terminal and copy the results here. And add the version of the library that you are using
+  Run `react-native info` in your terminal and copy the results here. Also, include the *precise* version number of this library that you are using in the project
 -->
+
+React native info output:
+
+```bash
+ // paste it here
+```
+
+Library version: x.x.x
 
 ## Steps To Reproduce
 
