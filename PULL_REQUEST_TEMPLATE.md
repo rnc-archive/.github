@@ -2,8 +2,36 @@
 
 # Summary
 
-<!-- Explain the **motivation** for making this change. What issues does the pull request solve? Please tag them so that they will get automatically closed once the PR is merged -->
+<!--
+Explain the **motivation** for making this change: here are some points to help you:
+
+* What issues does the pull request solve? Please tag them so that they will get automatically closed once the PR is merged
+* What is the feature? (if applicable)
+* How did you implement the solution?
+* What areas of the library does it impact?
+-->
 
 ## Test Plan
 
 <!-- Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes UI. -->
+
+### What's required for testing (prerequisites)?
+
+### What are the steps to reproduce (after prerequisites)?
+
+## Compatibility
+
+| OS      | Implemented |
+| ------- | :---------: |
+| iOS     |    ✅❌     |
+| Android |    ✅❌     |
+
+## Checklist
+
+<!-- Check completed item, when applicable, via: [X] -->
+
+- [ ] I have tested this on a device and a simulator
+- [ ] I added the documentation in `README.md`
+- [ ] I mentioned this change in `CHANGELOG.md`
+- [ ] I updated the typed files (TS and Flow)
+- [ ] I added a sample use of the API in the example project (`example/App.js`)
