@@ -9,6 +9,7 @@ about: Report a reproducible bug or regression in this library.
   Please provide a clear and concise description of what the bug is.
   Include screenshots if needed.
   Please test using the latest release of the library, as maybe said bug has been already fixed.
+  If the library has multiple install methods, describe installation method (e.g., pod, not pod, with jetifier etc)
 -->
 
 ## Environment info
@@ -31,10 +32,13 @@ Library version: x.x.x
  Issues without reproduction steps or code are likely to stall.
 -->
 
+1.
+2.
+...
+
 Describe what you expected to happen:
 
 1.
-
 2.
 
 ## Reproducible sample code
