@@ -35,8 +35,8 @@
 | [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin) | [@vonovak](https://github.com/vonovak) | active |
 | [react-native-hooks](https://github.com/react-native-community/react-native-hooks) | [@dabit3](https://github.com/dabit3), [@melihberberolu](https://github.com/melihberberolu) | active |
 | [react-native-image-editor](https://github.com/react-native-community/react-native-image-editor) | [@Trancever](https://github.com/Trancever) | active |
-| [react-native-image-picker-ios](https://github.com/react-native-community/react-native-image-picker-ios) | ?? | starting(?) |
-| [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker) | [@janicduplessis](https://github.com/janicduplessis), [@charpeni](https://github.com/charpeni) | active |
+| [react-native-image-picker-ios](https://github.com/react-native-community/react-native-image-picker-ios) | [@Johan-dutoit](https://github.com/Johan-dutoit) | deprecated |
+| [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker) | [@janicduplessis](https://github.com/janicduplessis), [@charpeni](https://github.com/charpeni), [@Johan-dutoit](https://github.com/Johan-dutoit) | active |
 | [react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient) | [@radex](https://github.com/radex) | active |
 | [react-native-localize](https://github.com/react-native-community/react-native-localize) | [@zoontek](https://github.com/zoontek) | active |
 | [react-native-maps](https://github.com/react-native-community/react-native-maps) | [@rborn](https://github.com/rborn), [@christopherdro](https://github.com/christopherdro), [@salah-ghanim](https://github.com/salah-ghanim), [@alvelig](https://github.com/alvelig) | active |
