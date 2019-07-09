@@ -57,7 +57,7 @@
 | [react-native-slider](https://github.com/react-native-community/react-native-slider) | [@michalchudziak](https://github.com/michalchudziak) | active |
 | [react-native-statusbar](https://github.com/react-native-community/react-native-statusbar) | [@dmtrKovalenko](https://github.com/dmtrKovalenko) | active |
 | [react-native-svg](https://github.com/react-native-community/react-native-svg) | [@msand](https://github.com/msand) | active |
-| [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view) | [@satya164](https://github.com/satya164) | active |
+| [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view) | [@satya164](https://github.com/satya164), [@osdnk](https://github.com/osdnk) | active |
 | [react-native-template-typescript](https://github.com/react-native-community/react-native-template-typescript) | [@emin93](https://github.com/emin93) | active |
 | [react-native-text-input-mask](https://github.com/react-native-community/react-native-text-input-mask) | [@ivanzotov](https://github.com/ivanzotov) | active |
 | [react-native-tvos](https://github.com/react-native-community/react-native-tvos) | [@dlowder-salesforce](https://github.com/dlowder-salesforce), [@hufkens](https://github.com/hufkens) | starting |
