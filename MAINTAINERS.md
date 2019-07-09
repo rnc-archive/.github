@@ -71,3 +71,4 @@
 | [rncamera-example](https://github.com/react-native-community/rncamera-example) | XXX | archived |
 | [template](https://github.com/react-native-community/template) | [@IljaDaderko](https://github.com/IljaDaderko) | starting |
 | [upgrade-helper](https://github.com/react-native-community/upgrade-helper) | [@pvinis](https://github.com/pvinis), [@lucasbento](https://github.com/lucasbento) | active |
+| [peek-and-pop](https://github.com/react-native-community/peek-and-pop) | [@osdnk](https://github.com/osdnk) | active |
