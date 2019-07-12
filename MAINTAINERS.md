@@ -11,7 +11,7 @@
 | [cameraview](https://github.com/react-native-community/cameraview) | [@jgfidelis](https://github.com/jgfidelis) | inactive(?) |
 | [ci-sample](https://github.com/react-native-community/ci-sample) | [@gengjiawen](https://github.com/gengjiawen) | inactive(?) |
 | [cli](https://github.com/react-native-community/cli) | [@thymikee](https://github.com/thymikee), [@grabbou](https://github.com/grabbou), [@Esemesek](https://github.com/Esemesek) | active |
-| [discussion-and-proposal](https://github.com/react-native-community/discussion-and-proposal) | [@kelset](https://github.com/kelset), [@cpojer](https://github.com/cpojer) | active |
+| [discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals) | [@kelset](https://github.com/kelset), [@cpojer](https://github.com/cpojer) | active |
 | [docker-android](https://github.com/react-native-community/docker-android) | [@gengjiawen](https://github.com/gengjiawen) | active(?) |
 | [eslint-plugin-react-native-globals](https://github.com/react-native-community/eslint-plugin-react-native-globals) | [@satya164](https://github.com/satya164) | inactive(?) |
 | [jsc-android-buildscripts](https://github.com/react-native-community/jsc-android-buildscript) | [@kmagiera](https://github.com/kmagiera), [@DanielZlotin](https://github.com/DanielZlotin), [@Kudo](https://github.com/Kudo) | active |
