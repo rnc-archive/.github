@@ -44,6 +44,7 @@
 | [react-native-modal](https://github.com/react-native-community/react-native-modal) | [@mmazzarolo](https://github.com/mmazzarolo), [@rewieer](https://github.com/rewieer) | active |
 | [react-native-navbar](https://github.com/react-native-community/react-native-navbar) | [@Kureev](https://github.com/Kureev) | inactive |
 | [react-native-netinfo](https://github.com/react-native-community/react-native-netinfo) | [@matt-oakes](https://github.com/matt-oakes) | active |
+| [react-native-permissions](https://github.com/react-native-community/react-native-permissions) | [@zoontek](https://github.com/zoontek) | active |
 | [react-native-picker](https://github.com/react-native-community/react-native-picker) | [@jainkuniya](https://github.com/jainkuniya),[@bartolkaruza](https://github.com/bartolkaruza) | active |
 | [react-native-platform-touchable](https://github.com/react-native-community/react-native-platform-touchable) | [@brentvatne](https://github.com/brentvatne) | inactive(?) |
 | [react-native-progress-bar-android](https://github.com/react-native-community/react-native-progress-bar-android) | [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | starting(?) |
