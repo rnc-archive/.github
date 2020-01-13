@@ -47,9 +47,9 @@
 | [react-native-permissions](https://github.com/react-native-community/react-native-permissions) | [@zoontek](https://github.com/zoontek) | active |
 | [react-native-picker](https://github.com/react-native-community/react-native-picker) | [@jainkuniya](https://github.com/jainkuniya),[@bartolkaruza](https://github.com/bartolkaruza) | active |
 | [react-native-platform-touchable](https://github.com/react-native-community/react-native-platform-touchable) | [@brentvatne](https://github.com/brentvatne) | inactive(?) |
-| [react-native-progress-bar-android](https://github.com/react-native-community/react-native-progress-bar-android) | [@Naturalclar](https://github.com/Naturalclar), [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | starting |
+| [react-native-progress-bar-android](https://github.com/react-native-community/react-native-progress-bar-android) | [@Naturalclar](https://github.com/Naturalclar), [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | active |
 | [react-native-progress-view](https://github.com/react-native-community/react-native-progress-view) | [@kdenz](https://github.com/kdenz) | starting |
-| [react-native-push-notification-ios](https://github.com/react-native-community/react-native-push-notification-ios) | [@rafaellincoln](https://github.com/rafaellincoln) | active |
+| [react-native-push-notification-ios](https://github.com/react-native-community/react-native-push-notification-ios) | [@rafaellincoln](https://github.com/rafaellincoln), [@Naturalclar](https://github.com/Naturalclar) | active |
 | [react-native-safe-area-view](https://github.com/react-native-community/react-native-safe-area-view) | [@brentvatne](https://github.com/brentvatne), [@cesargdm](https://github.com/cesargdm) | active |
 | [react-native-segmented-control](https://github.com/react-native-community/react-native-segmented-control) | [@harisbaig100](https://github.com/harisbaig100) | active |
 | [react-native-share](https://github.com/react-native-community/react-native-share) | [@jgcmarins](https://github.com/jgcmarins), [@mikehardy](https://github.com/mikehardy) | active |
