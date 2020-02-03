@@ -20,7 +20,6 @@ Create a `.prettierrc` file at the root of the repository with this content:
 
 ```json
 {
-  "requirePragma": true,
   "singleQuote": true,
   "trailingComma": "all",
   "bracketSpacing": false,
