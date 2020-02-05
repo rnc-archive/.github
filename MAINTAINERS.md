@@ -24,7 +24,7 @@
 | [react-native-checkbox](https://github.com/react-native-community/react-native-checkbox) | [@nicholaslee119](https://github.com/nicholaslee119) | starting |
 | [react-native-circleci-orb](https://github.com/react-native-community/react-native-circleci-orb) | [@matt-oakes](https://github.com/matt-oakes) | active |
 | [react-native-clipboard](https://github.com/react-native-community/react-native-clipboard) | [@harisbaig100](https://github.com/harisbaig100) | active |
-| [react-native-datetimepicker](https://github.com/react-native-community/react-native-datetimepicker) | [@Swaagie](https://github.com/Swaagie), [@DanielSanudo](https://github.com/DanielSanudo) | active |
+| [react-native-datetimepicker](https://github.com/react-native-community/react-native-datetimepicker) | [@Swaagie](https://github.com/Swaagie), [@DanielSanudo](https://github.com/DanielSanudo), [@vonovak](https://github.com/vonovak), [@luancurti](https://github.com/luancurti) | active |
 | [react-native-device-info](https://github.com/react-native-community/react-native-device-info) | [@mikehardy](https://github.com/mikehardy), [@machour](https://github.com/machour) | active |
 | [react-native-directory](https://github.com/react-native-community/react-native-directory) | [@brentvatne](https://github.com/brentvatne), [@turnrye](https://github.com/turnrye), [@ferranp](https://github.com/ferranp) | active |
 | [react-native-drawer-layout-polyfill](https://github.com/react-native-community/react-native-drawer-layout-polyfill) | [@DanielMSchmidt](https://github.com/DanielMSchmidt) | inactive |
