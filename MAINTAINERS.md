@@ -64,7 +64,7 @@
 | [react-native-tvos](https://github.com/react-native-community/react-native-tvos) | [@dlowder-salesforce](https://github.com/dlowder-salesforce), [@hufkens](https://github.com/hufkens) | starting |
 | [react-native-video](https://github.com/react-native-community/react-native-video) | [@cobarx](https://github.com/cobarx), [@jenshandersson](https://github.com/jenshandersson), [@CHaNGeTe](https://github.com/CHaNGeTe) | active |
 | [react-native-viewpager](https://github.com/react-native-community/react-native-viewpager) | [@ferrannp](https://github.com/ferrannp) | active |
-| [react-native-voice](https://github.com/react-native-community/react-native-voice) | [@sibelius](https://github.com/sibelius) | active |
+| [react-native-voice](https://github.com/react-native-community/react-native-voice) | [@sibelius](https://github.com/sibelius), [@safaiyeh](https://github.com/safaiyeh), [@Naturalclar](https://github.com/Naturalclar) | active |
 | [react-native-webgl](https://github.com/react-native-community/react-native-webgl) | [@gre](https://github.com/gre) | active |
 | [react-native-webview](https://github.com/react-native-community/react-native-webview) | [@Titozzz](https://github.com/Titozzz), [@jamonholmgren](https://github.com/jamonholmgren) | active |
 | [releases](https://github.com/react-native-community/releases) | [@kelset](https://github.com/kelset), [@grabbou](https://github.com/grabbou), [@turnrye](https://github.com/turnrye) | active |
