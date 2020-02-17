@@ -11,6 +11,7 @@
 | [cameraview](https://github.com/react-native-community/cameraview) | [@jgfidelis](https://github.com/jgfidelis) | inactive(?) |
 | [ci-sample](https://github.com/react-native-community/ci-sample) | [@gengjiawen](https://github.com/gengjiawen) | inactive(?) |
 | [cli](https://github.com/react-native-community/cli) | [@thymikee](https://github.com/thymikee), [@grabbou](https://github.com/grabbou), [@Esemesek](https://github.com/Esemesek) | active |
+| [cookies](https://github.com/react-native-community/cookies) | [@safaiyeh](https://github.com/safaiyeh) | active |
 | [discussions-and-proposals](https://github.com/react-native-community/discussions-and-proposals) | [@kelset](https://github.com/kelset), [@cpojer](https://github.com/cpojer) | active |
 | [docker-android](https://github.com/react-native-community/docker-android) | [@gengjiawen](https://github.com/gengjiawen) | active(?) |
 | [eslint-plugin-react-native-globals](https://github.com/react-native-community/eslint-plugin-react-native-globals) | [@satya164](https://github.com/satya164) | inactive(?) |
@@ -66,7 +67,7 @@
 | [react-native-viewpager](https://github.com/react-native-community/react-native-viewpager) | [@ferrannp](https://github.com/ferrannp) | active |
 | [react-native-voice](https://github.com/react-native-community/react-native-voice) | [@sibelius](https://github.com/sibelius), [@safaiyeh](https://github.com/safaiyeh), [@Naturalclar](https://github.com/Naturalclar) | active |
 | [react-native-webgl](https://github.com/react-native-community/react-native-webgl) | [@gre](https://github.com/gre) | active |
-| [react-native-webview](https://github.com/react-native-community/react-native-webview) | [@Titozzz](https://github.com/Titozzz), [@jamonholmgren](https://github.com/jamonholmgren) | active |
+| [react-native-webview](https://github.com/react-native-community/react-native-webview) | [@Titozzz](https://github.com/Titozzz), [@jamonholmgren](https://github.com/jamonholmgren), [@safaiyeh](https://github.com/safaiyeh) | active |
 | [releases](https://github.com/react-native-community/releases) | [@kelset](https://github.com/kelset), [@grabbou](https://github.com/grabbou), [@turnrye](https://github.com/turnrye) | active |
 | [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) | [@pvinis](https://github.com/pvinis) | active |
 | [rncamera-example](https://github.com/react-native-community/rncamera-example) | XXX | archived |
