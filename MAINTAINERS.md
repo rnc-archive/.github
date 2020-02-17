@@ -33,7 +33,7 @@
 | [react-native-geolocation](https://github.com/react-native-community/react-native-geolocation) | [@janicduplessis](https://github.com/janicduplessis), [@matt-oakes](https://github.com/matt-oakes), [@michalchudziak](https://github.com/michalchudziak) | active |
 | [react-native-google-analytics](https://github.com/react-native-community/react-native-google-analytics) | [@brentvatne](https://github.com/brentvatne) | inactive(?) |
 | [react-native-google-signin](https://github.com/react-native-community/react-native-google-signin) | [@vonovak](https://github.com/vonovak) | active |
-| [react-native-hooks](https://github.com/react-native-community/react-native-hooks) | [@dabit3](https://github.com/dabit3), [@melihberberolu](https://github.com/melihberberolu), [@pvinis](https://github.com/pvinis) | active |
+| [react-native-hooks](https://github.com/react-native-community/react-native-hooks) | [@dabit3](https://github.com/dabit3), [@melihberberolu](https://github.com/melihberberolu), [@pvinis](https://github.com/pvinis), [@LinusU](https://github.com/LinusU) | active |
 | [react-native-image-editor](https://github.com/react-native-community/react-native-image-editor) | [@Trancever](https://github.com/Trancever) | active |
 | [react-native-image-picker-ios](https://github.com/react-native-community/react-native-image-picker-ios) | [@Johan-dutoit](https://github.com/Johan-dutoit) | deprecated |
 | [react-native-image-picker](https://github.com/react-native-community/react-native-image-picker) | [@janicduplessis](https://github.com/janicduplessis), [@charpeni](https://github.com/charpeni), [@Johan-dutoit](https://github.com/Johan-dutoit) | active |
