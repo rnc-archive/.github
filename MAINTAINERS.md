@@ -18,13 +18,15 @@
 | [jsc-android-buildscripts](https://github.com/react-native-community/jsc-android-buildscript) | [@kmagiera](https://github.com/kmagiera), [@DanielZlotin](https://github.com/DanielZlotin), [@Kudo](https://github.com/Kudo) | active |
 | [lottie-react-native](https://github.com/react-native-community/lottie-react-native) | [@emilioicai](https://github.com/emilioicai) | active |
 | [normalize-css-color](https://github.com/react-native-community/normalize-css-color) | [@lelandrichardson](https://github.com/lelandrichardson) | inactive(?) |
+| [progress-bar-android](https://github.com/react-native-community/progress-bar-android) | [@Naturalclar](https://github.com/Naturalclar), [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | active |
+| [progress-view](https://github.com/react-native-community/progress-view) | [@Naturalclar](https://github.com/Naturalclar), [@kdenz](https://github.com/kdenz) | active |
 | [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) | [@sbeca](https://github.com/sbeca) | active |
 | [react-native-blur](https://github.com/react-native-community/react-native-blur) | [@charpeni](https://github.com/charpeni), [@Kureev](https://github.com/Kureev) | active |
 | [react-native-camera](https://github.com/react-native-community/react-native-camera) | [@sibelius](https://github.com/sibelius) | active |
 | [react-native-cameraroll](https://github.com/react-native-community/react-native-cameraroll) | [@bartolkaruza](https://github.com/bartolkaruza) | active |
 | [react-native-checkbox](https://github.com/react-native-community/react-native-checkbox) | [@nicholaslee119](https://github.com/nicholaslee119) | starting |
 | [react-native-circleci-orb](https://github.com/react-native-community/react-native-circleci-orb) | [@matt-oakes](https://github.com/matt-oakes) | active |
-| [react-native-clipboard](https://github.com/react-native-community/react-native-clipboard) | [@harisbaig100](https://github.com/harisbaig100) | active |
+| [react-native-clipboard](https://github.com/react-native-community/react-native-clipboard) | [@Naturalclar](https://github.com/Naturalclar), [@harisbaig100](https://github.com/harisbaig100) | active |
 | [react-native-datetimepicker](https://github.com/react-native-community/react-native-datetimepicker) | [@Swaagie](https://github.com/Swaagie), [@DanielSanudo](https://github.com/DanielSanudo), [@vonovak](https://github.com/vonovak), [@luancurti](https://github.com/luancurti) | active |
 | [react-native-device-info](https://github.com/react-native-community/react-native-device-info) | [@mikehardy](https://github.com/mikehardy), [@machour](https://github.com/machour) | active |
 | [react-native-directory](https://github.com/react-native-community/react-native-directory) | [@brentvatne](https://github.com/brentvatne), [@turnrye](https://github.com/turnrye), [@ferranp](https://github.com/ferranp) | active |
@@ -48,11 +50,8 @@
 | [react-native-permissions](https://github.com/react-native-community/react-native-permissions) | [@zoontek](https://github.com/zoontek) | active |
 | [react-native-picker](https://github.com/react-native-community/react-native-picker) | [@jainkuniya](https://github.com/jainkuniya),[@bartolkaruza](https://github.com/bartolkaruza) | active |
 | [react-native-platform-touchable](https://github.com/react-native-community/react-native-platform-touchable) | [@brentvatne](https://github.com/brentvatne) | inactive(?) |
-| [react-native-progress-bar-android](https://github.com/react-native-community/react-native-progress-bar-android) | [@Naturalclar](https://github.com/Naturalclar), [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | active |
-| [react-native-progress-view](https://github.com/react-native-community/react-native-progress-view) | [@kdenz](https://github.com/kdenz) | starting |
 | [react-native-push-notification-ios](https://github.com/react-native-community/react-native-push-notification-ios) | [@rafaellincoln](https://github.com/rafaellincoln), [@Naturalclar](https://github.com/Naturalclar) | active |
 | [react-native-safe-area-view](https://github.com/react-native-community/react-native-safe-area-view) | [@brentvatne](https://github.com/brentvatne), [@cesargdm](https://github.com/cesargdm) | active |
-| [react-native-segmented-control](https://github.com/react-native-community/react-native-segmented-control) | [@Naturalclar](https://github.com/Naturalclar), [@harisbaig100](https://github.com/harisbaig100) | active |
 | [react-native-share](https://github.com/react-native-community/react-native-share) | [@jgcmarins](https://github.com/jgcmarins), [@mikehardy](https://github.com/mikehardy) | active |
 | [react-native-side-menu](https://github.com/react-native-community/react-native-side-menu) | [@Kureev](https://github.com/Kureev), [@hannigand](https://github.com/hannigand) | active |
 | [react-native-simple-share](https://github.com/react-native-community/react-native-simple-share) | [@Ansalibrahim](https://github.com/Ansalibrahim) | starting |
@@ -65,12 +64,13 @@
 | [react-native-tvos](https://github.com/react-native-community/react-native-tvos) | [@dlowder-salesforce](https://github.com/dlowder-salesforce), [@hufkens](https://github.com/hufkens) | starting |
 | [react-native-video](https://github.com/react-native-community/react-native-video) | [@cobarx](https://github.com/cobarx), [@jenshandersson](https://github.com/jenshandersson), [@CHaNGeTe](https://github.com/CHaNGeTe) | active |
 | [react-native-viewpager](https://github.com/react-native-community/react-native-viewpager) | [@ferrannp](https://github.com/ferrannp) | active |
-| [react-native-voice](https://github.com/react-native-community/react-native-voice) | [@sibelius](https://github.com/sibelius), [@safaiyeh](https://github.com/safaiyeh), [@Naturalclar](https://github.com/Naturalclar) | active |
 | [react-native-webgl](https://github.com/react-native-community/react-native-webgl) | [@gre](https://github.com/gre) | active |
 | [react-native-webview](https://github.com/react-native-community/react-native-webview) | [@Titozzz](https://github.com/Titozzz), [@jamonholmgren](https://github.com/jamonholmgren), [@safaiyeh](https://github.com/safaiyeh) | active |
 | [releases](https://github.com/react-native-community/releases) | [@kelset](https://github.com/kelset), [@grabbou](https://github.com/grabbou), [@turnrye](https://github.com/turnrye) | active |
 | [rn-diff-purge](https://github.com/react-native-community/rn-diff-purge) | [@pvinis](https://github.com/pvinis) | active |
 | [rncamera-example](https://github.com/react-native-community/rncamera-example) | XXX | archived |
+| [segmented-control](https://github.com/react-native-community/segmented-control) | [@Naturalclar](https://github.com/Naturalclar), [@harisbaig100](https://github.com/harisbaig100) | active |
 | [template](https://github.com/react-native-community/template) | [@IljaDaderko](https://github.com/IljaDaderko) | starting |
 | [upgrade-helper](https://github.com/react-native-community/upgrade-helper) | [@pvinis](https://github.com/pvinis), [@lucasbento](https://github.com/lucasbento) | active |
 | [peek-and-pop](https://github.com/react-native-community/peek-and-pop) | [@osdnk](https://github.com/osdnk) | active |
+| [voice](https://github.com/react-native-community/voice) | [@sibelius](https://github.com/sibelius), [@safaiyeh](https://github.com/safaiyeh), [@Naturalclar](https://github.com/Naturalclar) | active |
