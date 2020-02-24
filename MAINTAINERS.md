@@ -19,7 +19,7 @@
 | [lottie-react-native](https://github.com/react-native-community/lottie-react-native) | [@emilioicai](https://github.com/emilioicai) | active |
 | [normalize-css-color](https://github.com/react-native-community/normalize-css-color) | [@lelandrichardson](https://github.com/lelandrichardson) | inactive(?) |
 | [progress-bar-android](https://github.com/react-native-community/progress-bar-android) | [@Naturalclar](https://github.com/Naturalclar), [@wagnermaciel](https://github.com/wagnermaciel), [@vivfang](https://github.com/vivfang) | active |
-| [progress-view](https://github.com/react-native-community/progress-view) | [@Naturalclar](https://github.com/Naturalclar),[@kdenz](https://github.com/kdenz) | active |
+| [progress-view](https://github.com/react-native-community/progress-view) | [@Naturalclar](https://github.com/Naturalclar), [@kdenz](https://github.com/kdenz) | active |
 | [react-native-audio-toolkit](https://github.com/react-native-community/react-native-audio-toolkit) | [@sbeca](https://github.com/sbeca) | active |
 | [react-native-blur](https://github.com/react-native-community/react-native-blur) | [@charpeni](https://github.com/charpeni), [@Kureev](https://github.com/Kureev) | active |
 | [react-native-camera](https://github.com/react-native-community/react-native-camera) | [@sibelius](https://github.com/sibelius) | active |
