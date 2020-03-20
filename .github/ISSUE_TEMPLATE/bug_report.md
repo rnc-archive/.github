@@ -32,7 +32,7 @@ Library version: x.x.x
 
 <!--
 - You must provide an easy way to reproduce the problem.
-- Keep the code reproducing the bug as simple as possible, with the minimum amount of code required to reproduce the issue. [Read more](https://stackoverflow.com/help/mcve).
+- Keep the code reproducing the bug as simple as possible, with the minimum amount of code required to reproduce the issue. See https://stackoverflow.com/help/mcve.
 - Either re-create the bug using the repository's example app or link to a GitHub repository with code that reproduces the bug.
 - Explain the steps we need to take to reproduce the issue:
 -->
