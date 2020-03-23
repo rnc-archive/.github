@@ -20,7 +20,7 @@ about: Report a reproducible bug or regression in this library.
   Run `react-native info` in your terminal and paste the results here. Also, include the *precise* version number of this library that you are using in the project
 -->
 
-React native info output:
+`react-native info` output:
 
 ```bash
  // paste it here
