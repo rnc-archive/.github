@@ -15,7 +15,7 @@ Before submitting a new issue, please:
 
 - Test using the latest release of the library, as maybe your bug has been already fixed.
 - Check for possible duplicate issues, with possible answers.
-- Check on https://reactnative.directory if this package supports your targetted platform (Android, iOS, Expo, …)
+- Check on https://reactnative.directory if this package supports your target platform (Android, iOS, Expo, …)
 
 Still ready? Fill the template. 👇
 -->
