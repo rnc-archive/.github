@@ -20,8 +20,10 @@ Before submitting a new issue, please:
 Still ready? Fill the template. 👇
 -->
 
+## Summary
+
 <!--
-▶️ First things first: Provide a clear and concise description of what the bug is.
+Provide a clear and concise description of what the bug is.
 -->
 
 ## Environment info
