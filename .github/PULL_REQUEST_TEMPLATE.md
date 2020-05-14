@@ -21,17 +21,16 @@ Explain the **motivation** for making this change: here are some points to help 
 
 ## Compatibility
 
-| OS      | Implemented |
+| Browser | Implemented |
 | ------- | :---------: |
-| iOS     |    ✅❌     |
-| Android |    ✅❌     |
+| Chrome  |    ✅❌    |
+| Firefox |    ✅❌    |
 
 ## Checklist
 
 <!-- Check completed item, when applicable, via: [X] -->
 
-- [ ] I have tested this on a device and a simulator
+- [ ] I have tested this on a browser
 - [ ] I added the documentation in `README.md`
 - [ ] I mentioned this change in `CHANGELOG.md`
-- [ ] I updated the typed files (TS and Flow)
-- [ ] I added a sample use of the API in the example project (`example/App.js`)
+- [ ] I updated function description
