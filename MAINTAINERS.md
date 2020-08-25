@@ -3,7 +3,7 @@
 | Repository | Maintainers | Status |
 | --- | :-: | --: |
 | [.github](https://github.com/react-native-community/.github) | [@kelset](https://github.com/kelset) | active |
-| [apple-sign-in](https://github.com/react-native-community/apple-sign-in) | [@vonovak](https://github.com/vonovak), [@matt-oakes](https://github.com/matt-oakes), [@ericlewis](https://github.com/ericlewis) | starting |
+| [apple-sign-in](https://github.com/react-native-community/apple-sign-in) | XXX | archived - use [Expo](https://docs.expo.io/versions/latest/sdk/apple-authentication/) or [Invertase](https://github.com/invertase/react-native-apple-authentication) implementations |
 | [art](https://github.com/react-native-community/art) | [@esemesek](https://github.com/Esemesek) | active |
 | [async-storage](https://github.com/react-native-community/async-storage) | [@Krizzu](https://github.com/Krizzu) | active |
 | [bob](https://github.com/react-native-community/bob) | [@satya164](https://github.com/satya164) | active |
